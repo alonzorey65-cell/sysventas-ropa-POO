@@ -1,4 +1,4 @@
-# Explicación de POO aplicada en Sys.Ventas (para exposición / nota 20)
+#
 
 Este documento resume **dónde se aplican los conceptos de Programación Orientada a Objetos** en el proyecto y **cómo se conectan las clases/capas**.
 
